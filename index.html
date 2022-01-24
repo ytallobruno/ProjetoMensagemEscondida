@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./css/style.css" />
+    <link
+    href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap"
+    rel="stylesheet"
+    />
+    <title>Codificando & Decodificando</title>
+  </head>
+  <body>
+    <div class="box">
+      <form class="forms" name="formulario">
+
+        <fieldset>
+          <legend>Codificando mensagem</legend>
+
+          <div class="entrada">
+            <input type="text" name="texto" id="texto" class="inputTexto" placeholder="Digite sua mensagem"/>
+          </div>
+
+          <div class="modo">
+            <label for="option">Escolha o modo</label>
+            <select name="chooseCod" class="chooseCod" id="escolherCod" required>
+              <option value="semValor" id="semValor" disabled selected>---</option>
+              <option value="cCesar" id="cCesar">Cifra de César</option>
+              <option value="Base64" id="base64">Base64</option>
+            </select>
+          </div>
+
+          <div class="incremento" style="display: none" id="valorIncremento">
+            <p>Incremento da chave</p>
+            <input type="number" class="inputIncremento" id="numeroIncrementos" default="0" min="1" value="1" />
+          </div>
+
+          <div class="codif">
+            <input type="radio" name="codific" id="codificar" class="radioBtn" value="codificar" /><label for="codificar">Codificar</label>
+            <input type="radio" name="codific" id="decodificar"  class="radioBtn" value="decodificar" /><label for="decodificar">Decodificar</label>
+          </div>
+
+          <div class="areabtn">
+            <button type="submit" class="btn" name="codMsg" id="submit">Codificar mensagem</button>
+          </div>
+
+          <div class="saida">
+            <textarea disabled class="areaSaida" id="saidaTexto" placeholder="Sua mensagem será gerada aqui"></textarea>
+          </div>
+
+        </fieldset>
+
+      </form>
+    </div>
+    <script src="./js/decifra.js"></script>
+  </body>
+</html>
