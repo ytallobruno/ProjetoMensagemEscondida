@@ -26,10 +26,6 @@ body {
   width: 400px;
   height: auto;
   padding: 15px;
-  /* position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%); */
   border-radius: 20px;
   box-shadow: -3px -3px 7px rgba(0, 46, 83, 0.5), 5px 5px 5px rgba(0, 18, 34, 0.7);
   backdrop-filter: blur(15px);
@@ -173,11 +169,11 @@ legend,
   transform: scale(1.7);
 }
 
+/* uma leve pitada de responsividade */
 @media only screen and (max-width: 600px) {
   .forms {
     width: 320px;
     height: auto;
     padding: 7px;
   }
-
 }
