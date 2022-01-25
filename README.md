@@ -65,4 +65,3 @@
 <div align="center">
   &#129145;&nbsp;<a href="#inicio"><strong>Voltar ao topo</strong></a>&nbsp;&#129145;
 </div>
-# ProjetoMensagemEscondida
