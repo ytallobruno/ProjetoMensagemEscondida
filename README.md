@@ -17,6 +17,8 @@
   - Dois campos radiais (radio buttons) com os textos: "codificar" e "decodificar"
   - Um botão que, com "codificar" selecionado exibe o texto "Codificar Mensagem!" e com "decodificar" selecionado exibe "Decodificar Mensagem!"
 
+<img src="./imagens/printProjMsgEscon.png" alt="imagem da tela dor formulário">
+
 <h2 id="andamento">Andamento do projeto 📈</h2>
 
   ![Badge](https://img.shields.io/website?down_message=offline&label=status&style=for-the-badge&up_color=g&up_message=concluido&url=https%3A%2F%2Fytallobruno.github.io%2FProjetoMensagemEscondida%2F)
