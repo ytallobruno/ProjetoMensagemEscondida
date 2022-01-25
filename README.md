@@ -40,7 +40,7 @@
   - Hue-rotate (CSS)
   - Funções (JS)
   - If, Else (JS)
-  - Estruturas de repetição (JS)
+  - For (JS)
   - DOM (JS)
   - Árvore DOM (JS)
   - Eventos DOM (JS)
