@@ -17,7 +17,7 @@
   - Dois campos radiais (radio buttons) com os textos: "codificar" e "decodificar"
   - Um botão que, com "codificar" selecionado exibe o texto "Codificar Mensagem!" e com "decodificar" selecionado exibe "Decodificar Mensagem!"
 
-<img src="./imagens/printProjMsgEscon.png" alt="imagem da tela dor formulário">
+<img src="./imagens/printProjMsgEscon.png" alt="imagem da tela da página do projeto">
 
 <h2 id="andamento">Andamento do projeto 📈</h2>
 
