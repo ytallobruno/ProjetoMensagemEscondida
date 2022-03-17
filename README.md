@@ -58,12 +58,14 @@ Para contribuir com meu projeto, siga estas etapas:
   >- Crie a solicitação de pull.
 *Consulte a documentação do GitHub em* [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
+<hr>
+
 <div id="autor" align="center">
   
   **Criado e desenvolvido por [Ytallo Bruno](https://www.linkedin.com/in/ytallobruno/).**
   
  <div align="center"> 
-  <a href="mailto:ytallobruno@hotmail.com"><img src="https://cdn-icons-png.flaticon.com/512/2525/2525737.png" height="40em" title="Enviar E-mail"></a>
+  <a href="mailto:ytallodev@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/552/552486.png" height="40em" title="Enviar E-mail"></a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ytallobruno" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" height="40em" title="GitHub de Ytallo"></a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -74,5 +76,5 @@ Para contribuir com meu projeto, siga estas etapas:
 <br>
 
 <div align="center">
-  &#129145;&nbsp;<a href="#inicio"><strong>Voltar ao topo</strong></a>&nbsp;&#129145;
+  &#11165;&nbsp;<a href="#inicio"><strong>Voltar ao topo</strong></a>&nbsp;&#11165;
 </div>
